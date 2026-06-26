@@ -67,10 +67,14 @@
             "id": "b33900fa0ad36ef9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Sistema/0.- Requerimientos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.- Requerimientos"
             }
           }
         ],
@@ -236,10 +240,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c234dc83b9f551b5",
+  "active": "b33900fa0ad36ef9",
   "lastOpenFiles": [
-    "Sistema/0.- Requerimientos.md",
     "Sistema/4.- Logica del negocio.md",
+    "Sistema/0.- Requerimientos.md",
     "requerimientos.md",
     "Sistema/3.- UI.md",
     "Sistema/2.- Sql.md",
